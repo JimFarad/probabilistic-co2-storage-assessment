@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+
+title: "Probabilistic CO2 Storage Assessment"
+
+type: software
+
+authors:
+  - family-names: "Farantouris"
+    given-names: "Gerasimos Dimitrios"
+    orcid: "https://orcid.org/0009-0006-8120-6650"
+
+keywords:
+  - CO2 Storage
+  - Carbon Capture and Storage
+  - CCS
+  - Monte Carlo Simulation
+  - Uncertainty Analysis
+  - Reservoir Engineering
+  - Geological Storage
+  - Probabilistic Modelling
+
+license: MIT
+
+url: "https://github.com/JimFarad/probabilistic-co2-storage-assessment"
+
+version: "1.0"
+
+date-released: 2026-07-07
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Farantouris"
+      given-names: "Gerasimos Dimitrios"
+      orcid: "https://orcid.org/0009-0006-8120-6650"
+  title: "Probabilistic Assessment of CO2 Storage Capacity"
+  year: 2026
