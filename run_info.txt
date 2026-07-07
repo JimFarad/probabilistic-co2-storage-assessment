@@ -1,0 +1,15 @@
+Monte Carlo Run Info
+====================
+Simulations: 10000
+Porosity: mean=0.2, std=0.03
+Saturation: mean=0.74, std=0.05
+Porosity limits: 0.15-0.3
+Saturation limits: 0.5-0.9
+Largest closure ID: 1
+Largest closure input volume (m3): 34987288.00
+Largest closure P90 (Mt): 17.64
+Largest closure P50 (Mt): 21.96
+Largest closure P10 (Mt): 26.74
+Largest closure mean (Mt): 22.12
+Largest closure std dev (Mt): 3.51
+Largest closure contribution (%): 57.8
